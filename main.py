@@ -35,8 +35,8 @@ try:
     if GOOGLE_API_KEY:
         genai.configure(api_key=GOOGLE_API_KEY)
         # 使用支持视觉的最新模型
-        gemini_model = genai.GenerativeModel('gemini-1.5-flash-latest')
-        logger.info("Gemini AI模型已成功加载 (gemini-1.5-flash-latest)。")
+        gemini_model = genai.GenerativeModel('gemini-2.5-flash-lite')
+        logger.info("Gemini AI模型已成功加载 (gemini-2.5-flash-lite)。")
     else:
         gemini_model = None
         logger.warning("GOOGLE_API_KEY未找到。AI功能将无法使用。")
