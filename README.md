@@ -1,6 +1,6 @@
 # 美菲拉斯评估员 - Telegram Bot
 
-![Mefilas](https://cdnb.artstation.com/p/assets/images/images/050/218/725/large/fuji-asset.jpg?1654334678![image](https://github.com/user-attachments/assets/e03187b2-c3e4-4098-a941-25848227e645)
+![Mefilas](https://cdnb.artstation.com/p/assets/images/images/050/218/725/large/fuji-asset.jpg)
 
 > "应诸君之邀前来。我的口头禅是，万物皆有其价。"
 
